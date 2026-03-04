@@ -1,6 +1,6 @@
 //Ryan Dias de Souza
 import java.util.Scanner;
-public class Main {
+public class Atividade4 {
     public static void main(String[] args) {
 try (Scanner ler= new Scanner(System.in) ){
 
