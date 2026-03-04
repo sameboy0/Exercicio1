@@ -1,6 +1,6 @@
 //Ryan Dias de Souza
 
-public class Main {
+public class Atividade7 {
     public static void main(String[] args) {
 
     boolean c1, c2, c3, c4;
